@@ -1,0 +1,4 @@
+deployment:
+  replicas: 1
+ingress:
+  host: dev-gateway.edshopper.com
